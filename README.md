@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abhisheksrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhisheksrajput" height="30" width="40" /></a>
-<a href="https://twitter.com/selftaughtabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selftaughtabhi" height="30" width="40" /></a>
+<a href="https://x.com/abhi77799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek singh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhisheksrajput3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksrajput3" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhisheksrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhisheksrajput" height="30" width="40" /></a>
-<a href="https://instagram.com/m0nkey_strings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0nkey_strings" height="30" width="40" /></a>
+<a href="https://www.instagram.com/singhstrings9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0nkey_strings" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhisingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisingh3" height="30" width="40" /></a>
 </p>
 
